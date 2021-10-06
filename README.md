@@ -1,5 +1,4 @@
-# Online-furniture-store ( Replace it with any name )
-
+# Online-furniture-store
 ## Requirement:
 
 A fully functional website to manage an online furniture store.  
